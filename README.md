@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a mathematician and aspiring data scientist with a passion for exploring the world of technology through hands-on personal projects. From data analysis and machine learning to automation and robotics, I love building things, solving problems, and learning along the way! 
+I'm a mathematician and aspiring data scientist with a passion for exploring the world of science and technology through hands-on personal projects. From data analysis and machine learning to automation and robotics, I love building things, solving problems, and learning along the way! 
 
 This space is a work in progress, where I'm documenting and sharing my journey, with the goal of turning my skills and curiosity into meaningful professional experience. 
 
@@ -31,9 +31,17 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 
 - [Arduino & ESP32](https://github.com/n-laoutaris/robotics-automation-IoT): A work in progress to document my microcontroller-powered prototypes and the sketches they run
 
+### Game Design
+
+- Our first game coming soon!
+
 ### Academic writing
 
 - [My papers](https://github.com/n-laoutaris/academic-writing-portfolio): A collection of university assignments and written reports.
+
+## 📫 Connect with me
+
+If you just stumbled upon this profile by accident or by design, feel free to reach me through [my LinkedIn profile](https://www.linkedin.com/in/nikolas-laoutaris-7b6221278/)!
 
 <!--
 **n-laoutaris/n-laoutaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
