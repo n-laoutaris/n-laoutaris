@@ -29,7 +29,7 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 
 ### Robotics - Automation
 
-- [Arduino & ESP32](https://github.com/n-laoutaris/robotics-automation-IoT): A work in progress to document my microcontroller-powered prototypes and the sketches they run
+- [Arduino & ESP32](https://github.com/n-laoutaris/robotics-automation-IoT): A work in progress to document my microcontroller-powered prototypes and the sketches they run.
 
 ### Game Design
 
