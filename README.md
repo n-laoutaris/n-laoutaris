@@ -33,7 +33,9 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 
 ### Game Design
 
-- Our first game coming soon!
+- [Minimal walking simulator](https://github.com/n-laoutaris/theseus-labyrinth): A proof-of-concept Unity project demonstrating how a fully functional 3D first-person walking simulator can be built in one sitting using free assets, basic geometry and a single script.
+- Ruby's Adventure: (Pending upload) A top-down RPG level that was made using Unity assets and tutorials and served as inspiration and the experimenting grounds for our first game.
+- Our first complete game also coming soon!
 
 ### Academic writing
 
