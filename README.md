@@ -29,7 +29,7 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 
 ### Mathematics
 
-- [Grey-Scott reaction-diffusion](https://github.com/n-laoutaris/grey-scott-reaction-diffusion): A simulation of the Grey-Scott reaction-diffusion system using the finite element method to explore how simple chemical interactions can generate complex animal fur patterns.
+- [Gray-Scott reaction-diffusion](https://github.com/n-laoutaris/grey-scott-reaction-diffusion): A simulation of the Grey-Scott reaction-diffusion system using the finite element method to explore how simple chemical interactions can generate complex animal fur patterns.
 
 ### Robotics - Automation
 
