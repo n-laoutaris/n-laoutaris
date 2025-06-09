@@ -18,7 +18,7 @@ Below you’ll find a selection of personal, academic, and exploratory projects 
 
 Each project helped me grow my skills and explore new ideas — and this portfolio is still growing!
 
-### Data Science 
+### Data Science & ΑΙ
 
 - [Government Data Analysis](https://github.com/n-laoutaris/diavgeia-KNIME): A big project of extracting structured data from documents using LLMs and using it for large scale analytics.
 - [Big Data Analytics](https://github.com/n-laoutaris/big-data-analytics-mapreduce-spark): A small prooject using Hadoop MapReduce and Apache Spark.
@@ -26,6 +26,7 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 - [Airline Sentiment Analysis](https://github.com/n-laoutaris/airline-sentiment-analysis-ml): A comparison of ML models for classification.
 - [Twitter Sentiment Analysis](https://github.com/n-laoutaris/sentiment-analysis-comparison-kaggle): A demonstration of basic text analytics using pre-trained models.
 - [Healthcare Data Mining](https://github.com/n-laoutaris/data-mining-hospital-length-of-stay): Predicting hospital length of stay and other analytics.
+- Proximity AI (Pending upload): A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning agent.
 
 ### Mathematics
 
@@ -38,7 +39,7 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 ### Game Design
 
 - [Minimal walking simulator](https://github.com/n-laoutaris/theseus-labyrinth): A proof-of-concept Unity project demonstrating how a fully functional 3D first-person walking simulator can be built in one sitting using free assets, basic geometry and a single script.
-- Ruby's Adventure: (Pending upload) A top-down RPG level that was made using Unity assets and tutorials and served as inspiration and the experimenting grounds for our first game.
+- Ruby's Adventure (Pending upload): A top-down RPG level that was made using Unity assets and tutorials and served as inspiration and the experimenting grounds for our first game.
 - Our first complete game also coming soon!
 
 ### Academic writing
