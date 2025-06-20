@@ -47,7 +47,9 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 
 ### Academic writing
 
-- [My papers](https://github.com/n-laoutaris/academic-writing-portfolio): A collection of university assignments and written reports.
+[My papers](https://github.com/n-laoutaris/academic-writing-portfolio): A collection of university assignments and written reports. This collection currently contains the following works:
+- Edge Computing and Distributed Database Systems
+- Data Mining in Healthcare
 
 ## 📫 Connect with me
 
