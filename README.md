@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a mathematician and aspiring data scientist with a passion for exploring the world of science and technology through hands-on personal projects. From data analysis and machine learning to automation and robotics, I love building things, solving problems, and learning along the way! 
+I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. From data analysis and machine learning to automation and robotics, I love building things, solving problems and learning along the way! 
 
 This space is a work in progress, where I'm documenting and sharing my journey, with the goal of turning my skills and curiosity into meaningful professional experience. 
 
@@ -8,7 +8,7 @@ Thanks for stopping by!
 
 ## 🎓 What I'm currently working on
 
-I’m currently pursuing an MSc in Data Science, where I’ve been deepening my understanding of machine learning, data mining, and statistical analysis. I’m now preparing to begin my dissertation, which will be an exciting opportunity to apply what I’ve learned in a focused research project.
+I’m currently pursuing an MSc in Data Science, where I’ve been deepening my understanding of machine learning, data mining and statistical analysis. I’m now making my dissertation, which is an exciting opportunity to apply what I’ve learned in a focused research project.
 
 Throughout the program, I’ve also worked on hands-on assignments and collaborative projects — some of which are included here!
 
