@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. From data analysis and machine learning to automation and robotics, I love building things, solving problems and learning along the way! 
+I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. I love building things, solving problems and learning as much as I can along the way!  
 
 This space is a work in progress, where I'm documenting and sharing my journey, with the goal of turning my skills and curiosity into meaningful professional experience. 
 
@@ -8,15 +8,15 @@ Thanks for stopping by!
 
 ## 🎓 What I'm currently working on
 
-I’m currently pursuing an MSc in Data Science, where I’ve been deepening my understanding of machine learning, data mining and statistical analysis. I’m now making my dissertation, which is an exciting opportunity to apply what I’ve learned in a focused research project.
+I’m currently pursuing an MSc in Data Science, where I’ve been deepening my understanding of the data ecosystem and gaining familiarity with a variety of tools and use cases. I’m now composing my dissertation, which is an exciting opportunity to apply what I’ve learned in a focused research project.
 
-Throughout the program, I’ve also worked on hands-on assignments and collaborative projects — some of which are included here!
+Throughout the program, I’ve also worked on many hands-on assignments and collaborative projects. Some of them are included here!
 
 ## 🛠️ My Projects
 
-Below you’ll find a selection of personal, academic, and exploratory projects that reflect my journey into data science, programming, and more. These projects span coursework, real-world datasets, and experimental work with many tools and programming languages.
+Below you’ll find a selection of personal or academic exploratory projects that reflect my journey into data science and my other interests. These projects showcase experimental work with many different tools and programming languages.
 
-Each project helped me grow my skills and explore new ideas — and this portfolio is still growing!
+Each one helped me grow my skills and explore new ideas. Keep in mind this portfolio is still growing!
 
 ### Data Science & ΑΙ
 
@@ -25,11 +25,11 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 - [Big Data Analytics](https://github.com/n-laoutaris/big-data-analytics-mapreduce-spark): A small prooject using Hadoop MapReduce and Apache Spark.
 - [Rental Database Design](https://github.com/n-laoutaris/rental-database-SQL): An SQL project designing and testing a sample database for an apartment rental service.
 - Duplicate Question Detection (Pending upload): A machine learning pipeline to identify duplicate questions in Quora using different vector representations and similarity metrics.
-- [Airline Sentiment Analysis](https://github.com/n-laoutaris/airline-sentiment-analysis-ml): A comparison of ML models for classification.
+- [Airline Sentiment Analysis](https://github.com/n-laoutaris/airline-sentiment-analysis-ml): A comparison of Machine Learning models for classification.
 - [Twitter Sentiment Analysis](https://github.com/n-laoutaris/sentiment-analysis-comparison-kaggle): A demonstration of basic text analytics using pre-trained models.
 - [Healthcare Data Mining](https://github.com/n-laoutaris/data-mining-hospital-length-of-stay): Predicting hospital length of stay and other analytics.
 - CO₂ Time Series Modeling (Pending upload): Decomposition, transformation, ARMA modeling and forecasting of atmospheric CO₂ data using classical techniques in R.
-- Proximity AI (Pending upload): A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning agent.
+- Proximity AI (Pending upload): A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning AI agent.
 
 ### Mathematics
 
@@ -53,7 +53,7 @@ Each project helped me grow my skills and explore new ideas — and this portfol
 
 ## 📫 Connect with me
 
-If you just stumbled upon this profile by accident or by design, feel free to reach me through [my LinkedIn profile](https://www.linkedin.com/in/nikolas-laoutaris-7b6221278/)!
+If you stumbled upon this profile by accident or by design, feel free to reach me through [my LinkedIn profile](https://www.linkedin.com/in/nikolas-laoutaris-7b6221278/)!
 
 <!--
 **n-laoutaris/n-laoutaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
