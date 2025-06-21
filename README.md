@@ -29,6 +29,7 @@ Each one helped me grow my skills and explore new ideas. Keep in mind this portf
 - [Twitter Sentiment Analysis](https://github.com/n-laoutaris/sentiment-analysis-comparison-kaggle): A demonstration of basic text analytics using pre-trained models.
 - [Healthcare Data Mining](https://github.com/n-laoutaris/data-mining-hospital-length-of-stay): Predicting hospital length of stay and other analytics.
 - CO₂ Time Series Modeling (Pending upload): Decomposition, transformation, ARMA modeling and forecasting of atmospheric CO₂ data using classical techniques in R.
+- Chaotic Time Series Analysis (Pending upload): Uncovering the hidden structure of a chaotic system through phase space reconstruction, fractal analysis and nonlinear forecasting using R.
 - Proximity AI (Pending upload): A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning AI agent.
 
 ### Mathematics
