@@ -24,11 +24,11 @@ Each one helped me grow my skills and explore new ideas. Keep in mind this portf
 - [Food Image Recognition](https://github.com/n-laoutaris/food-image-recognition): A transformer-based deep learning pipeline for multi-label classification of food images.
 - [Big Data Analytics](https://github.com/n-laoutaris/big-data-analytics-mapreduce-spark): A small prooject using Hadoop MapReduce and Apache Spark.
 - [Rental Database Design](https://github.com/n-laoutaris/rental-database-SQL): An SQL project designing and testing a sample database for an apartment rental service.
-- Duplicate Question Detection (Pending upload): A machine learning pipeline to identify duplicate questions in Quora using different vector representations and similarity metrics.
+- Duplicate Question Detection (Pending upload): A NLP pipeline to identify duplicate questions in Quora using different vector representations and similarity metrics.
 - [Airline Sentiment Analysis](https://github.com/n-laoutaris/airline-sentiment-analysis-ml): A comparison of Machine Learning models for classification.
 - [Twitter Sentiment Analysis](https://github.com/n-laoutaris/sentiment-analysis-comparison-kaggle): A demonstration of basic text analytics using pre-trained models.
 - [Healthcare Data Mining](https://github.com/n-laoutaris/data-mining-hospital-length-of-stay): Predicting hospital length of stay and other analytics.
-- CO₂ Time Series Modeling (Pending upload): Decomposition, transformation, ARMA modeling and forecasting of atmospheric CO₂ data using classical techniques in R.
+- CO₂ Time Series Modeling (Pending upload): Decomposition, transformation, modeling and forecasting of atmospheric data using classical techniques in R.
 - Chaotic Time Series Analysis (Pending upload): Uncovering the hidden structure of a chaotic system through phase space reconstruction, fractal analysis and nonlinear forecasting using R.
 - Proximity AI (Pending upload): A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning AI agent.
 
