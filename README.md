@@ -24,7 +24,7 @@ Each one helped me grow my skills and explore new ideas. Keep in mind this portf
 - [Food Image Recognition](https://github.com/n-laoutaris/food-image-recognition): A transformer-based deep learning pipeline for multi-label classification of food images.
 - [Big Data Analytics](https://github.com/n-laoutaris/big-data-analytics-mapreduce-spark): A small prooject using Hadoop MapReduce and Apache Spark.
 - [Rental Database Design](https://github.com/n-laoutaris/rental-database-SQL): An SQL project designing and testing a sample database for an apartment rental service.
-- [Duplicate Question Detection](https://github.com/n-laoutaris/quora-question-similarity): A NLP pipeline to identify duplicate questions in Quora using different vector representations and similarity metrics.
+- [Duplicate Question Detection](https://github.com/n-laoutaris/quora-question-similarity): A NLP pipeline to identify duplicate questions in Quora.
 - [Airline Sentiment Analysis](https://github.com/n-laoutaris/airline-sentiment-analysis-ml): A comparison of Machine Learning models for classification.
 - [Twitter Sentiment Analysis](https://github.com/n-laoutaris/sentiment-analysis-comparison-kaggle): A demonstration of basic text analytics using pre-trained models.
 - [Healthcare Data Mining](https://github.com/n-laoutaris/data-mining-hospital-length-of-stay): Predicting hospital length of stay and other analytics.
