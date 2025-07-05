@@ -20,7 +20,7 @@ Each one helped me grow my skills and explore new ideas. Keep in mind this portf
 
 ### Data Science & ΑΙ
 
-- [Government Data Analysis](https://github.com/n-laoutaris/diavgeia-KNIME): A big project of extracting structured data from documents using LLMs and using it for large scale analytics.
+- [Government Data Analysis](https://github.com/n-laoutaris/diavgeia-KNIME): Extracting structured data from documents using LLMs and using it for large scale analytics.
 - [Food Image Recognition](https://github.com/n-laoutaris/food-image-recognition): A transformer-based deep learning pipeline for multi-label classification of food images.
 - [Big Data Analytics](https://github.com/n-laoutaris/big-data-analytics-mapreduce-spark): A small prooject using Hadoop MapReduce and Apache Spark.
 - [Rental Database Design](https://github.com/n-laoutaris/rental-database-SQL): An SQL project designing and testing a sample database for an apartment rental service.
