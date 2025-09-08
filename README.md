@@ -1,14 +1,14 @@
 ## Hi there! 👋
 
-I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. I love building things, solving problems and learning as much as I can along the way!  
+I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. I love building things ans solving problems, learning as much as I can along the way!  
 
-This space is a work in progress, where I'm documenting and sharing my journey, with the goal of turning my skills and curiosity into meaningful professional experience. 
+This space is a work in progress, where I'm documenting and sharing my journey, with the goal of turning my skills and curiosity into meaningful professional experience.
 
 Thanks for stopping by!
 
 ## 🎓 What I'm currently working on
 
-I’m currently pursuing an MSc in Data Science, where I’ve been deepening my understanding of the data ecosystem and gaining familiarity with a variety of tools and use cases. I’m now composing my dissertation on "Exploring Neuro-Symbolic Pipelines for Structured Knowledge Extraction", an exciting opportunity to apply what I’ve learned in a focused research project.
+I’m currently pursuing an MSc in Data Science, evolving my understanding of the data ecosystem and familiarizing myself with a variety of tools and use cases. I’m now composing my dissertation on "Exploring Neuro-Symbolic Pipelines for Structured Knowledge Extraction", an exciting opportunity to apply what I’ve learned in a focused research project.
 
 Throughout the program, I’ve also worked on many hands-on assignments and collaborative projects. Some of them are included here!
 
