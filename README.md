@@ -36,7 +36,7 @@ Each one helped me grow my skills and explore new ideas. Keep in mind this portf
 
 - [Gray-Scott reaction-diffusion](https://github.com/n-laoutaris/grey-scott-reaction-diffusion): A simulation of the Gray-Scott reaction-diffusion system using the finite element method to explore how simple chemical interactions can generate complex animal fur patterns.
 
-### Robotics - Automation
+### Robotics - Automation - IoT
 
 - [Arduino & ESP32](https://github.com/n-laoutaris/robotics-automation-IoT): A work in progress to document my microcontroller-powered prototypes and the sketches they run.
 
