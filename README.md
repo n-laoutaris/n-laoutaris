@@ -1,14 +1,15 @@
 ## Hi there! 👋
 
-I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. I love building things ans solving problems, learning as much as I can along the way!  
+I'm a mathematician and data scientist with a passion for exploring the world of science and technology through hands-on personal projects. I love building things and solving problems, learning as much as I can along the way!  
 
 This space is a work in progress, where I'm documenting and sharing my journey, with the goal of turning my skills and curiosity into meaningful professional experience.
 
 Thanks for stopping by!
 
-## 🎓 What I'm currently working on
+## 🔭 What I'm currently working on
 
-I’m currently pursuing an MSc in Data Science, evolving my understanding of the data ecosystem and familiarizing myself with a variety of tools and use cases. I’m now composing my dissertation on "Exploring Neuro-Symbolic Pipelines for Structured Knowledge Extraction", an exciting opportunity to apply what I’ve learned in a focused research project.
+I’m currently finalizing my MSc in Data Science, which has evolved my understanding of the data ecosystem and made me familiar with a variety of tools and use cases. 
+I recently completed my dissertation, an exciting opportunity to apply what I’ve learned in a focused, novel research project. I am now waiting on the date of my presentation.
 
 Throughout the program, I’ve also worked on many hands-on assignments and collaborative projects. Some of them are included here!
 
@@ -17,6 +18,10 @@ Throughout the program, I’ve also worked on many hands-on assignments and coll
 Below you’ll find a selection of personal or academic exploratory projects that reflect my journey into data science and my other interests. These projects showcase experimental work with many different tools and programming languages.
 
 Each one helped me grow my skills and explore new ideas. Keep in mind this portfolio is still growing!
+
+### My Master's Dissertation 
+
+- [Exploring Neuro-Symbolic Pipelines for Structured Knowledge Extraction](https://github.com/n-laoutaris/neuro-symbolic-dissertation): A Neuro-Symbolic system for digital governance, using LLM-driven rule extraction, Semantic Web modeling and SHACL/SPARQL validation, evaluated via custom mutation testing.
 
 ### Data Science & ΑΙ
 
