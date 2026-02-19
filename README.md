@@ -8,14 +8,11 @@ Thanks for stopping by!
 
 ## 🔭 What I'm currently working on
 
-I’m currently finalizing my MSc in Data Science, which has evolved my understanding of the data ecosystem and made me familiar with a variety of tools and use cases. 
-I recently completed my dissertation, an exciting opportunity to apply what I’ve learned in a focused, novel research project. I am now waiting on the date of my presentation.
-
-Throughout the program, I’ve also worked on many hands-on assignments and collaborative projects. Some of them are included here!
+Having recently completed my MSc in Data Science, I am now focusing on seeking professional opportunities in data-centric roles. Meanwhile, I continue to expand my portfolio of personal and interdisciplinary projects.
 
 ## 🛠️ My Projects
 
-Below you’ll find a selection of personal or academic exploratory projects that reflect my journey into data science and my other interests. These projects showcase experimental work with many different tools and programming languages.
+Below you’ll find a selection of personal or academic exploratory projects that reflect my journey into data science and my other interests. These projects showcase experimental work with different tools and programming languages.
 
 Each one helped me grow my skills and explore new ideas. Keep in mind this portfolio is still growing!
 
