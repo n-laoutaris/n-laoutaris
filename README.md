@@ -18,15 +18,11 @@ A Neuro-Symbolic system for digital governance. Uses LLM-driven rule extraction 
 
 *Tech: LLMs, Knowledge Graphs, SHACL, SPARQL*
 
----
-
 - **[Food Image Recognition](https://github.com/n-laoutaris/food-image-recognition)** | Multi-Label Deep Learning
 
 A transformer-based pipeline for multi-label food image classification. Includes data preprocessing, augmentation and model optimization.
 
 *Tech: PyTorch, Transformers, Computer Vision*
-
----
 
 - **[Quora Question Similarity](https://github.com/n-laoutaris/quora-question-similarity)** | NLP
 
