@@ -57,8 +57,8 @@ Below you’ll find a selection of personal or academic exploratory projects tha
 
 ### Game Design
 
+- [Fog of War](https://github.com/n-laoutaris/Real-World-Fog): A mobile exploration app that obscures the real-world map with a digital "fog" which clears as the user travels.
 - [Minimal walking simulator](https://github.com/n-laoutaris/theseus-labyrinth): A proof-of-concept Unity project demonstrating how a fully functional 3D first-person walking simulator can be built in one sitting using free assets, basic geometry and a single script.
-- Fog of War *(Finalizing documentation)*: A mobile exploration app that obscures the real-world map with a digital "fog" which clears as the user travels.
 - Ruby's Adventure *(Pending upload)*: A top-down RPG level that was made using Unity assets and tutorials and served as inspiration and the experimenting grounds for our first game.
 
 ### Academic writing
