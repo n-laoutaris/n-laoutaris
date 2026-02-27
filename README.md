@@ -52,8 +52,8 @@ Below you’ll find a selection of personal or academic exploratory projects tha
 
 ### Robotics - Automation - IoT
 
+- [Vroxoulis Rain Detector](https://github.com/n-laoutaris/rain-alert): An IoT-based rain detection system that delivers real-time mobile notifications.
 - [Arduino & ESP32 scrapyard](https://github.com/n-laoutaris/robotics-automation-IoT): A work in progress to document the rest of my microcontroller-powered prototypes and the sketches they run.
-- Vroxoulis Rain Detector *(Finalizing documentation)*: An IoT-based rain detection system that delivers real-time mobile notifications.
 
 ### Game Design
 
