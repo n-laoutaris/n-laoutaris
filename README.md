@@ -44,7 +44,7 @@ Below you’ll find a selection of personal or academic exploratory projects tha
 - [Healthcare Data Mining](https://github.com/n-laoutaris/data-mining-hospital-length-of-stay): Predicting hospital length of stay and other analytics.
 - [Linear Time Series Analysis](https://github.com/n-laoutaris/timeseries-forecasting-co2): Transformation, modeling and forecasting of atmospheric data using classical techniques in R.
 - [Chaotic Time Series Analysis](https://github.com/n-laoutaris/timeseries-nonlinear): Analyzing a chaotic system through phase space reconstruction and nonlinear forecasting using R.
-- Proximity AI *(Pending upload)*: A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning AI agent.
+- Proximity AI *(Finalizing Documentation)*: A rule-based AI for the board game Proximity, with ongoing development of a reinforcement learning AI agent.
 
 ### Mathematics
 
@@ -53,6 +53,7 @@ Below you’ll find a selection of personal or academic exploratory projects tha
 ### Robotics - Automation - IoT
 
 - [Vroxoulis Rain Detector](https://github.com/n-laoutaris/rain-alert): An IoT-based rain detection system that delivers real-time mobile notifications.
+- ESP32 Mini Weather Logger *(Preparing first commit)*: An autonomous IoT telemetry node built to log local climate data for data science experiments.
 - [Arduino & ESP32 scrapyard](https://github.com/n-laoutaris/robotics-automation-IoT): A work in progress to document the rest of my microcontroller-powered prototypes and the sketches they run.
 
 ### Game Design
