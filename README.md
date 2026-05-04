@@ -36,6 +36,7 @@ Below you’ll find a selection of personal or academic exploratory projects tha
 
 ### Data Science & ΑΙ
 
+- Agentic Game Librarian: An AI Agent that learns your tastes in gaming and recommends what to play from your library based on current mood.
 - [Government Data Analysis](https://github.com/n-laoutaris/diavgeia-KNIME): Extracting structured data from documents using LLMs and using it for large scale analytics.
 - [Big Data Analytics](https://github.com/n-laoutaris/big-data-analytics-mapreduce-spark): A small project using Hadoop MapReduce and Apache Spark.
 - [Rental Database Design](https://github.com/n-laoutaris/rental-database-SQL): A SQL project designing and testing a sample database for an apartment rental service.
